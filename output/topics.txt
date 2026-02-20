@@ -1,0 +1,18 @@
+**TOPICS**
+
+**Unit 1: Introduction to Machine Learning**
+	* Definition and applications of machine learning
+	* Uncovering the limitations of traditional programming
+
+**Unit 2: Types of Machine Learning Paradigms**
+	* Supervised, Unsupervised, Semi-Supervised, Reinforcement, Transfer, Online Learning
+
+**Unit 3: Learning Methods in Machine Learning**
+	* Regression and Classification problems
+	* Clustering, Anomaly Detection, Association Rule Mining, Dimensionality Reduction
+
+**Unit 4: Applications of Machine Learning**
+	* Healthcare, Finance, Retail & E-commerce, Transportation, Manufacturing
+
+**Unit 5: Advanced Topics in Machine Learning**
+	* Transfer Learning, Online Learning

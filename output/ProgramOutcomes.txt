@@ -1,0 +1,18 @@
+Program Outcomes:
+
+1. Predicting and optimizing future outcomes
+   • Explain that this outcome is about using machine learning algorithms to predict 
+predictions from labeled examples, which can be used in various areas such as 
+financial forecasting, customer segmentation, traffic prediction
+
+2. Discovering patterns and making decisions
+   • Illustrate the concept of reinforcement learning by giving an example of a 
+child learning to walk with reward and penalty.
+
+3. Mapping unstructured data into structured representations
+   • Introduce principal component analysis (PCA) as a statistical procedure 
+that uses an orthogonal transformation to convert possibly correlated variables 
+into linearly uncorrelated variables called principal components, which is used 
+in various applications such as image processing and feature extraction 
+
+4. Extracting and manipulating features

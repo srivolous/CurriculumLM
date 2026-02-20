@@ -1,0 +1,13 @@
+COURSE OUTCOMES
+
+Unit 1: Introduction to Machine Learning
+        - Explain the concept of Machine Learning and its relation 
+to artificial intelligence (AI)
+        - Discuss how machine learning is used across various 
+domains to automate tasks, extract insights, and make accurate 
+predictions from data
+
+Unit 2: Types of Machine Learning
+        - Introduce supervised, unsupervised, reinforcement 
+and deep learning paradigms
+        - Explain the objectives and limitations of each paradigm

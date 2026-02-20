@@ -1,0 +1,21 @@
+**Machine Learning Syllabus**
+
+Unit 1: Machine Learning Fundamentals
+
+* Definition of Machine Learning (ML)
+	+ ML is about predicting the future based on the past
+	+ Focuses on the development of computer programs that can access data and use it to learn for themselves
+* Introduction to Machine Learning
+	+ Overview of the field of machine learning
+	+ Understanding the importance of machine learning in various domains
+
+Unit 2: Types of Machine Learning
+
+* Supervised Learning
+	+ Training a model using labeled data (input-output pairs)
+	+ Goal: Learn a mapping from inputs to outputs
+	+ Examples: Classification, Regression
+* Unsupervised Learning
+	+ Trained on unlabeled data
+	+ Goal: Discover patterns, clusters or structures within the data
+	+ Examples: Clustering, Association Rule Mining, Dimensionality Reduction
